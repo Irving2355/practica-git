@@ -10,7 +10,7 @@ void mostrarMenu(){
 
 int main(){
     cout << "Sistema de estudiante UAA" << endl;
-    cout << "Version profesor"<< endl;
+    cout << "Version colaborativa" << endl;
     mostrarMenu();
     return 0;
 }
