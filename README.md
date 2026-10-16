@@ -9,3 +9,6 @@ Proyecto utilizado para aprender control de versiones con Git
 - Realizar fusiones
 - Resolver conflictos
 - Recuperar versiones anteriores
+
+## Estado
+Terminado
